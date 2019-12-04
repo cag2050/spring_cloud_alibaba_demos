@@ -14,3 +14,4 @@ Nacos 配置中心 | https://github.com/cag2050/alibaba-nacos-config-client
 --- | ---
 使用 Sentinel 实现接口限流 | https://github.com/cag2050/alibaba-sentinel-rate-limiting
 Sentinel 使用 Nacos 的存储规则 | https://github.com/cag2050/alibaba_sentinel_datasource_nacos
+@SentinelResource 注解实现：限流控制、熔断降级 | https://github.com/cag2050/alibaba_sentinel_annotation
